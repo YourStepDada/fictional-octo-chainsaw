@@ -1,0 +1,29 @@
+.body_background {
+    background-color: aqua;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.h1 {
+    background-color: rgb(112, 110, 215);
+    color: rgb(255, 255, 255);
+}
+
+.paragraph {
+    font-family: sans-serif;
+    font-weight: bold;
+    letter-spacing: 6px;
+    font-size: 21px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    background-color: gray;
+    color: bisque;
+    width: 100%;
+    font-size: 18px;
+    line-height: 4;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
